@@ -1,0 +1,2 @@
+print ("Good bay")
+print ("good night")
